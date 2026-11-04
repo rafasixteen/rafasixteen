@@ -37,15 +37,6 @@ Software developer building web, mobile, and backend systems with TypeScript, Go
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## GitHub at a glance
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rafasixteen&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Rafael's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafasixteen&layout=compact&hide_border=true&theme=transparent" alt="Rafael's top languages" />
-
-</div>
-
 <div align="center">
 
 Thanks for stopping by — feel free to explore the repositories or connect with me.
