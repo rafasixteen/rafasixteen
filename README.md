@@ -1,10 +1,18 @@
-# Rafael Da Silva Rego
+<h1 align="center">Rafael Da Silva Rego</h1>
 
-Software developer focused on web, mobile, and backend systems.
+<p align="center">
+  Software developer • Web, mobile, and backend systems
+</p>
 
-📍 Bombarral, Portugal · 📫 [rafaelrego16@gmail.com](mailto:rafaelrego16@gmail.com) · 🌐 [rafasixteen.github.io](https://rafasixteen.github.io/)
+<p align="center">
+  <a href="https://rafasixteen.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rafasixteen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:rafaelrego16@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/rafasixteen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bombarral%2C%20Portugal-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bombarral, Portugal" />
+</p>
 
----
+<hr />
 
 ## 👨‍💻 About Me
 
@@ -12,38 +20,54 @@ I'm a software developer who enjoys turning ideas into practical products and le
 
 My main tools are TypeScript, React, Next.js, Go, and Kotlin. I also work with PostgreSQL, Docker, and GitHub Actions when a project needs reliable data, deployment, and automation.
 
-I keep my portfolio and CV bilingual in English and Portuguese, and I'm currently deepening my experience across full-stack web development, backend services, and mobile applications.
+I keep my portfolio and CV bilingual in English and Portuguese, and I'm deepening my experience across full-stack web development, backend services, and mobile applications.
+
+<hr />
 
 ## 🛠️ Tech Stack
 
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,go,kotlin" alt="TypeScript, Go, and Kotlin" />
+</p>
 
 ### Web
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="React, Next.js, HTML, CSS, and Tailwind CSS" />
+</p>
 
-### Backend, data, and tooling
+### Backend and Data
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,docker" alt="PostgreSQL, SQLite, and Docker" />
+</p>
+
+### Tooling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux" alt="Git, GitHub, GitHub Actions, and Linux" />
+</p>
+
+<hr />
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafasixteen&theme=github_dark" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafasixteen&theme=github" alt="GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafasixteen&theme=github_dark" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafasixteen&theme=github" alt="Top languages by repository" />
+  </picture>
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafasixteen&theme=github_dark" alt="GitHub profile activity summary" />
-
-<img height="180" src="https://streak-stats.demolab.com?user=rafasixteen&theme=github-dark&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-Let's connect and build something useful together.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafasixteen&theme=github_dark" />
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafasixteen&theme=github" alt="GitHub profile details" />
+  </picture>
+</p>
