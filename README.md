@@ -22,8 +22,8 @@ Software developer building web, mobile, and backend systems with TypeScript, Go
 | Project | What it is |
 | --- | --- |
 | [Personal portfolio](https://rafasixteen.github.io/) | Bilingual portfolio and CV built with Next.js and TypeScript. |
-| [Calisthenics Alliance](https://github.com/rafasixteen/calisthenics-alliance) | Go services supporting the Portuguese calisthenics competition platform. |
-| [CAL Judge](https://github.com/rafasixteen/cal-judge) | Event-day judging tools for the Calisthenics Alliance ecosystem. |
+| [Calisthenics Alliance](https://rafasixteen.github.io/en/projects/cal-platform) | A competition platform for the Portuguese calisthenics community. |
+| [CAL Judge](https://rafasixteen.github.io/en/projects/cal-judge) | Event-day judging tools for the Calisthenics Alliance ecosystem. |
 | [rbacgen](https://github.com/rafasixteen/rbacgen) | A Go tool for generating role-based access-control code. |
 
 ## Tech I use
